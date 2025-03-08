@@ -1,5 +1,4 @@
 /.direnv
-/.git
 /console/node_modules
 /dist-newstyle
 /server/tests-py/.hasura-dev-python-venv
