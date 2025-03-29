@@ -42,6 +42,5 @@ TabWidth: '4'
 AccessModifierOffset: '-4'
 UseTab: Never
 PointerAlignment: Left
-NamespaceIndentation: All
 ColumnLimit: 120
 
