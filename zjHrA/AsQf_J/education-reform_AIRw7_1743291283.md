@@ -217,7 +217,6 @@ pip3 install ipython
 > **说明**：事实上[Visual Studio Code](<https://code.visualstudio.com/>)可能是更好的选择，它不用花钱并提供了更为完整和强大的功能，有兴趣的读者可以自行研究。
 
 #### PyCharm - Python开发神器
-
 PyCharm的安装、配置和使用在[《玩转PyCharm》](../玩转PyCharm.md)进行了介绍，有兴趣的读者可以选择阅读。
 
 ![](./res/python-pycharm.png)
